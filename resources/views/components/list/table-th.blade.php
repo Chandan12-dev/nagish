@@ -1,0 +1,1 @@
+<th {!! $attributes->merge(['class' => '']) !!}><div class="th-label"> {{ $slot }}</div></th>
